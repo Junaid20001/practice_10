@@ -1,0 +1,8 @@
+D:\C#\10-Var_&_Dynamic\practice_10\practice_10\bin\Debug\practice_10.exe.config
+D:\C#\10-Var_&_Dynamic\practice_10\practice_10\bin\Debug\practice_10.exe
+D:\C#\10-Var_&_Dynamic\practice_10\practice_10\bin\Debug\practice_10.pdb
+D:\C#\10-Var_&_Dynamic\practice_10\practice_10\obj\Debug\practice_10.csproj.AssemblyReference.cache
+D:\C#\10-Var_&_Dynamic\practice_10\practice_10\obj\Debug\practice_10.csproj.SuggestedBindingRedirects.cache
+D:\C#\10-Var_&_Dynamic\practice_10\practice_10\obj\Debug\practice_10.csproj.CoreCompileInputs.cache
+D:\C#\10-Var_&_Dynamic\practice_10\practice_10\obj\Debug\practice_10.exe
+D:\C#\10-Var_&_Dynamic\practice_10\practice_10\obj\Debug\practice_10.pdb
